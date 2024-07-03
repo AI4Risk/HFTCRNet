@@ -76,7 +76,7 @@ To train the HFTCRNet, please first configurate the ``./src/run.sh`` and then ru
 
 The results of different credit rating method with regards to different metrics are shown as follows:
 
-|  Method  |         Accuracy          |    Macro-$\text{F}_1$     |
+|  Method  |         Accuracy          |    Macro-$F_1$     |
 | -------- | ------------------------- | ------------------------- |
 | GCN      |   0.537   $\pm$   0.060   |   0.435   $\pm$   0.043   |
 | GAT      |   0.540   $\pm$   0.087   |   0.429   $\pm$   0.123   |
